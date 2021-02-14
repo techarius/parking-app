@@ -1,3 +1,2 @@
-# parking-app
-Parkify
+# Parkify
 Android Parking App that lets users choose their parking slot.
