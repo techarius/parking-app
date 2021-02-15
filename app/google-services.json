@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "647427959953",
+    "project_id": "techarius-parkify",
+    "storage_bucket": "techarius-parkify.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647427959953:android:2d6ca77965b51927162330",
+        "android_client_info": {
+          "package_name": "co.in.techarius.parkify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647427959953-k30lslr5faoieh6qktg960lkfni9mmms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLzuche8v6rWXAVkLvHDIT5Kg-s0H9E_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647427959953-k30lslr5faoieh6qktg960lkfni9mmms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
